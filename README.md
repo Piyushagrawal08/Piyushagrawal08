@@ -1,85 +1,93 @@
-# 👋 Hi, I'm Piyush Agrawal!
+# 👋 Hi, I'm **Piyush Agrawal**
 
-Welcome to my GitHub portfolio! This README is a showcase of my work, skills, and ongoing learning journey. I'm passionate about **Data Science, Machine Learning, Web Development, and Telecom Systems**.
+🎯 **Aspiring Data Analyst | Machine Learning Enthusiast | Problem Solver**
+
+Welcome to my GitHub! I’m passionate about using **data-driven insights** to solve real-world problems. I work across **Python, SQL, Power BI, and Machine Learning**, and enjoy building end-to-end projects that turn raw data into meaningful outcomes.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Final-year B.Tech student in Information Technology.
-* 📊 Aspiring **Data Analyst / Data Scientist**.
-* 🤖 Experienced with **Python, SQL, Machine Learning, Data Preprocessing, and NLP**.
-* 🛰️ Internship experience at **BSNL** and **Rourkela Steel Plant**.
-* 📈 Currently working on **Web Traffic Time Series Forecasting** and **Amazon Review Sentiment Analysis**.
+* 🎓 **B.Tech in Information Technology**, Veer Surendra Sai University of Technology (2021–2025)
+* 📊 Skilled in **Data Analytics, Visualization, ML Models, and Business Insights**
+* 💡 I enjoy working on **recommendation systems, forecasting, dashboards, and automation**
+* 🌱 Currently expanding expertise in **advanced data analytics and full‑stack development**
 
 ---
 
-## 🧠 Skills & Technologies
+## 🛠️ Skills & Tools
 
-### **Programming & Data**
+### **Programming & Frameworks**
 
-* Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-* SQL (MySQL, PostgreSQL)
-* Data Cleaning & Preprocessing
-* Machine Learning Algorithms
-* Feature Engineering
-* Data Visualization (Power BI, Matplotlib)
+* Python, JavaScript, HTML, CSS
+* React.js, Node.js, Express.js
 
-### **Web & Tools**
+### **Data & Analytics**
 
-* HTML, CSS, JavaScript, React.js
-* Git & GitHub
-* Jupyter Notebook
-* Power BI
+* SQL, Pandas, NumPy
+* Power BI, Excel
+* Data Cleaning, EDA, Feature Engineering
 
-### **Telecom & Electronics**
+### **Databases**
 
-* Wireless Communication
-* 3G/4G/5G Basics
-* Optical Fiber Communication
+* MySQL
+
+### **DevOps & Tools**
+
+* Docker, GitHub, VS Code
 
 ---
 
-## 📚 Featured Projects
+## 📂 Featured Projects
 
-### 🔹 **1. Web Traffic Time Series Forecasting**
+### 🔹 **Vendor Performance Analysis**
 
-* Time series decomposition
-* ARIMA, Prophet, LSTM experimentation
-* Outlier detection and trend analysis
-* Dashboarding with Power BI
+* Built an end-to-end workflow using **SQL, Python, Power BI**
+* Conducted EDA to evaluate delivery, cost, and quality KPIs
+* Designed an interactive dashboard for vendor insights
+* Proposed data-driven recommendations to enhance procurement efficiency
 
-### 🔹 **2. Amazon Review Sentiment Analysis**
+### 🔹 **Movie Recommendation System**
 
-* Text preprocessing (tokenization, lemmatization)
-* VADER & RoBERTa sentiment analysis
-* Data visualization of sentiment trends
+* Content-based filtering using **TMDB 5000 dataset**
+* Used `ast.literal_eval`, CountVectorizer, and cosine similarity
+* Developed a recommender engine & serialized it using pickle
 
-### 🔹 **3. Product Recommendation System**
+### 🔹 **Store Sales Management**
 
-* Collaborative filtering
-* E-commerce dataset analysis
+* Built a sales management and analytics system for a retail store
+* Created Excel dashboards for daily/weekly/monthly insights
+* Tools used: **Excel, Power BI, SQL, Python**
 
-### 🔹 **4. Network Anomaly Detection (Academic Project)**
+### 🔹 **Online Retail Recommendation System (Internship Project)**
 
-* ML-based network traffic anomaly recognition
-* Supervised & unsupervised approaches
+* Built using **Excel, Pandas, NumPy**
+* Recommended personalized products based on user purchase history
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushAgrawal\&layout=compact\&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushAgrawal\&show_icons=true\&theme=radical)
+### **Plasmid Innovation Pvt. Ltd. — Data Analyst Intern (Feb 2025 – Apr 2025)**
+
+* Worked on advanced data analysis concepts
+* Developed an online retail recommendation system
+* Analyzed customer behavior to enhance personalization
+
+### **Unified Mentor — Data Analyst Intern (Mar 2025)**
+
+* Developed a personalized health recommendation system
+* Conducted stock market trend analysis
+* Improved project functionality through team collaboration
 
 ---
 
 ## 📫 Connect With Me
 
-* **Email:** [piyushagrawal@example.com](mailto:piyushagrawal@example.com)
-* **LinkedIn:** [https://linkedin.com/in/piyushagrawal](https://linkedin.com/in/piyushagrawal)
-* **Portfolio Website:** coming soon!
+* 📧 Email: **[piyushagrawal0804@gmail.com](mailto:piyushagrawal0804@gmail.com)**
+* 🔗 LinkedIn: [Piyush Agrawal](https://www.linkedin.com/in/piyush-agrawal-946715302/)
+* 📍 From: Sinapali, India
 
 ---
 
-⭐ *Thank you for visiting! Feel free to explore my repositories and connect with me.*
+⭐ *Feel free to explore my repositories and reach out for collaboration or project discussions!*
