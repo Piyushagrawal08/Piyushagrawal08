@@ -6,11 +6,9 @@
 
 ---
 
-<!-- Header image / small profile visual (use your own image or one below) -->
-![profile-banner](/mnt/data/099d7d71-ecf5-4bcc-a257-211ce382eaac.png)
-
-## About Me
-I am a B.Tech Information Technology undergraduate with hands-on experience in data analysis, recommendation systems, real-time streaming, and data warehousing. I focus on building end-to-end analytics solutions and scalable pipelines that deliver actionable business insights.
+## 🧑‍💻 About Me
+I am a B.Tech Information Technology undergraduate with hands-on experience in data analysis, recommendation systems, real-time streaming, and data warehousing.  
+I focus on building end-to-end analytics solutions and scalable pipelines that deliver actionable business insights.
 
 ---
 
@@ -19,13 +17,17 @@ I am a B.Tech Information Technology undergraduate with hands-on experience in d
 ### **Veer Surendra Sai University of Technology, Burla**  
 **B.Tech (Information Technology)** • *2021–2025*  
 - **CGPA:** 8.56  
+
 ---
+
 ### **Sri Chaitanya Vidyaniketan, Vishakhapatnam** • *2019*  
-- **Intermediate:** -82.3%
+- **Intermediate:** 82.3%  
+
 ---
+
 ### **Jawahar Navodaya Vidyalaya** • *2017*  
-- **Matriculation:**
-- **CGPA:** 9.4
+- **Matriculation:** CGPA 9.4  
+
 ---
 
 ## 💼 Experience
@@ -44,15 +46,18 @@ I am a B.Tech Information Technology undergraduate with hands-on experience in d
 - Conducted stock market trend analysis for pattern detection  
 - Improved project functionality and user experience through collaboration  
 
-
 ---
 
-### 💼 Programming Languages
+## 🛠 Skills & Tools
+
+### 💼 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### 🗄 Big Data & Databases
+---
+
+### 🗄 Big Data & Databases  
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -60,12 +65,16 @@ I am a B.Tech Information Technology undergraduate with hands-on experience in d
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white)
 
-### ☁️ Cloud Platforms & DevOps
+---
+
+### ☁️ Cloud Platforms & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-### 📊 Data Analytics & ML
+---
+
+### 📊 Data Analytics & ML  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?logo=plotly&logoColor=white)
@@ -73,36 +82,42 @@ I am a B.Tech Information Technology undergraduate with hands-on experience in d
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-### 🛠 Developer Tools
+---
+
+### 🛠 Developer Tools  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
-## 📂 Projects (as listed on resume)
 
-### Vendor Performance Analysis
-- Built an end-to-end analytics workflow using **SQL, Python, Power BI**.  
-- Performed EDA in Jupyter Notebook to extract insights on delivery, cost, and quality metrics.  
-- Created a Power BI dashboard to visualize vendor KPIs, trends, and segmentation.  
-- Provided data-driven recommendations to optimize procurement.
+## 📂 Projects (from resume)
 
-### Real-Time Data Streaming Pipeline
-- Designed and implemented a real-time streaming pipeline using **Apache Kafka**.  
-- Orchestrated workflows with **Apache Airflow** (PostgreSQL backend).  
-- Processed streaming data using a **Spark master–worker cluster**.  
-- Stored processed data in **Cassandra** for high-availability, low-latency analytics.  
-- Monitoring via Kafka Control Center and Schema Registry.
-
-### SQL Data Warehouse
-- Built end-to-end data warehouse using **SQL Server** with ETL pipelines.  
-- Designed fact and dimension tables for analytical modeling.  
-- Implemented SQL-based dashboards and reporting for business insights.
+### **Vendor Performance Analysis**
+- Built an end-to-end analytics workflow using **SQL, Python, Power BI**  
+- Performed EDA on delivery, cost, and quality metrics  
+- Created Power BI dashboards for vendor KPIs  
+- Provided procurement optimization recommendations  
 
 ---
 
-## 📫 Contact
-**Email:** piyushagrawal0804@gmail.com  
-**Phone:** +91 9078911176
+### **Real-Time Data Streaming Pipeline**
+- Designed a real-time streaming pipeline using **Apache Kafka**  
+- Used **Apache Airflow** (PostgreSQL backend) for orchestration  
+- Processed large-scale data using **Spark master–worker cluster**  
+- Stored results in **Cassandra**  
+- Monitoring with Kafka Control Center & Schema Registry  
 
 ---
+
+### **SQL Data Warehouse**
+- Built a warehouse using SQL Server with ETL workflows  
+- Designed fact & dimension tables  
+- Developed SQL reports for insights and analytics  
+
+---
+
+## 📫 Contact  
+📧 **Email:** piyushagrawal0804@gmail.com  
+📱 **Phone:** +91 9078911176  
+
