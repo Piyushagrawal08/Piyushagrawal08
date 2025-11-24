@@ -16,31 +16,39 @@ I am a B.Tech Information Technology undergraduate with hands-on experience in d
 
 ## 🎓 Education
 
-**Veer Surendra Sai University of Technology, Burla**  
-**B.Tech (Information Technology)** — *2021–2025*  
-- CGPA: **8.56**
+### **Veer Surendra Sai University of Technology, Burla**  
+**B.Tech (Information Technology)** • *2021–2025*  
+- **CGPA:** 8.56  
 
-**Sri Chaitanya Vidyaniketan, Vishakhapatnam** — *2019*  
-- Intermediate — **82.3%**
+---
 
-**Jawahar Navodaya Vidyalaya** — *2017*  
-- Matriculation — **CGPA 9.4**
+### **Sri Chaitanya Vidyaniketan, Vishakhapatnam** • *2019*  
+- **Intermediate:** 82.3%
+
+---
+
+### **Jawahar Navodaya Vidyalaya** • *2017*  
+- **Matriculation:** CGPA 9.4
+
 
 ---
 
 ## 💼 Experience
 
-**Plasmid Innovation Pvt. Ltd. — Data Analyst Intern**  
+### **Plasmid Innovation Pvt. Ltd. — Data Analyst Intern**  
 *Feb 2025 – Apr 2025*  
-- Gained hands-on experience in data analysis concepts.  
-- Developed an online retail recommendation system using **Excel, Pandas, NumPy**.  
-- Leveraged customer behavior data to generate tailored product suggestions.
+- Gained hands-on experience in core data analysis concepts  
+- Built an online retail recommendation system using **Excel, Pandas, NumPy**  
+- Analyzed customer behavior to deliver tailored recommendation insights  
 
-**Unified Mentor — Data Analyst Intern**  
+---
+
+### **Unified Mentor — Data Analyst Intern**  
 *Mar 2025*  
-- Developed a personalized health recommendation system.  
-- Performed stock market trend analysis to identify patterns and support modeling.  
-- Improved project functionality and user experience through team collaboration.
+- Developed a personalized health recommendation system  
+- Conducted stock market trend analysis for pattern detection  
+- Improved project functionality and user experience through collaboration  
+
 
 ---
 
