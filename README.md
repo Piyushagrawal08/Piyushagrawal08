@@ -1,93 +1,93 @@
 # 👋 Hi, I'm **Piyush Agrawal**
 
-🎯 **Aspiring Data Analyst | Machine Learning Enthusiast | Problem Solver**
-
-Welcome to my GitHub! I’m passionate about using **data-driven insights** to solve real-world problems. I work across **Python, SQL, Power BI, and Machine Learning**, and enjoy building end-to-end projects that turn raw data into meaningful outcomes.
-
----
-
-## 🚀 About Me
-
-* 🎓 **B.Tech in Information Technology**, Veer Surendra Sai University of Technology (2021–2025)
-* 📊 Skilled in **Data Analytics, Visualization, ML Models, and Business Insights**
-* 💡 I enjoy working on **recommendation systems, forecasting, dashboards, and automation**
-* 🌱 Currently expanding expertise in **advanced data analytics and full‑stack development**
+📍 India • 📧 piyushagrawal0804@gmail.com • 📱 +91 9078911176  
+🔗 LinkedIn: https://www.linkedin.com/in/piyush-agrawal-946715302/  
+🔗 GitHub: (add your GitHub URL)
 
 ---
 
-## 🛠️ Skills & Tools
+<!-- Header image / small profile visual (use your own image or one below) -->
+![profile-banner](/mnt/data/099d7d71-ecf5-4bcc-a257-211ce382eaac.png)
 
-### **Programming & Frameworks**
-
-* Python, JavaScript, HTML, CSS
-* React.js, Node.js, Express.js
-
-### **Data & Analytics**
-
-* SQL, Pandas, NumPy
-* Power BI, Excel
-* Data Cleaning, EDA, Feature Engineering
-
-### **Databases**
-
-* MySQL
-
-### **DevOps & Tools**
-
-* Docker, GitHub, VS Code
+## About Me
+I am a B.Tech Information Technology undergraduate with hands-on experience in data analysis, recommendation systems, real-time streaming, and data warehousing. I focus on building end-to-end analytics solutions and scalable pipelines that deliver actionable business insights.
 
 ---
 
-## 📂 Featured Projects
+## 🎓 Education
 
-### 🔹 **Vendor Performance Analysis**
+**Veer Surendra Sai University of Technology, Burla**  
+**B.Tech (Information Technology)** — *2021–2025*  
+- CGPA: **8.56**
 
-* Built an end-to-end workflow using **SQL, Python, Power BI**
-* Conducted EDA to evaluate delivery, cost, and quality KPIs
-* Designed an interactive dashboard for vendor insights
-* Proposed data-driven recommendations to enhance procurement efficiency
+**Sri Chaitanya Vidyaniketan, Vishakhapatnam** — *2019*  
+- Intermediate — **82.3%**
 
-### 🔹 **Movie Recommendation System**
-
-* Content-based filtering using **TMDB 5000 dataset**
-* Used `ast.literal_eval`, CountVectorizer, and cosine similarity
-* Developed a recommender engine & serialized it using pickle
-
-### 🔹 **Store Sales Management**
-
-* Built a sales management and analytics system for a retail store
-* Created Excel dashboards for daily/weekly/monthly insights
-* Tools used: **Excel, Power BI, SQL, Python**
-
-### 🔹 **Online Retail Recommendation System (Internship Project)**
-
-* Built using **Excel, Pandas, NumPy**
-* Recommended personalized products based on user purchase history
+**Jawahar Navodaya Vidyalaya** — *2017*  
+- Matriculation — **CGPA 9.4**
 
 ---
 
 ## 💼 Experience
 
-### **Plasmid Innovation Pvt. Ltd. — Data Analyst Intern (Feb 2025 – Apr 2025)**
+**Plasmid Innovation Pvt. Ltd. — Data Analyst Intern**  
+*Feb 2025 – Apr 2025*  
+- Gained hands-on experience in data analysis concepts.  
+- Developed an online retail recommendation system using **Excel, Pandas, NumPy**.  
+- Leveraged customer behavior data to generate tailored product suggestions.
 
-* Worked on advanced data analysis concepts
-* Developed an online retail recommendation system
-* Analyzed customer behavior to enhance personalization
-
-### **Unified Mentor — Data Analyst Intern (Mar 2025)**
-
-* Developed a personalized health recommendation system
-* Conducted stock market trend analysis
-* Improved project functionality through team collaboration
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: **[piyushagrawal0804@gmail.com](mailto:piyushagrawal0804@gmail.com)**
-* 🔗 LinkedIn: [Piyush Agrawal](https://www.linkedin.com/in/piyush-agrawal-946715302/)
-* 📍 From: Sinapali, India
+**Unified Mentor — Data Analyst Intern**  
+*Mar 2025*  
+- Developed a personalized health recommendation system.  
+- Performed stock market trend analysis to identify patterns and support modeling.  
+- Improved project functionality and user experience through team collaboration.
 
 ---
 
-⭐ *Feel free to explore my repositories and reach out for collaboration or project discussions!*
+## 📂 Projects (as listed on resume)
+
+### Vendor Performance Analysis
+- Built an end-to-end analytics workflow using **SQL, Python, Power BI**.  
+- Performed EDA in Jupyter Notebook to extract insights on delivery, cost, and quality metrics.  
+- Created a Power BI dashboard to visualize vendor KPIs, trends, and segmentation.  
+- Provided data-driven recommendations to optimize procurement.
+
+### Real-Time Data Streaming Pipeline
+- Designed and implemented a real-time streaming pipeline using **Apache Kafka**.  
+- Orchestrated workflows with **Apache Airflow** (PostgreSQL backend).  
+- Processed streaming data using a **Spark master–worker cluster**.  
+- Stored processed data in **Cassandra** for high-availability, low-latency analytics.  
+- Monitoring via Kafka Control Center and Schema Registry.
+
+### SQL Data Warehouse
+- Built end-to-end data warehouse using **SQL Server** with ETL pipelines.  
+- Designed fact and dimension tables for analytical modeling.  
+- Implemented SQL-based dashboards and reporting for business insights.
+
+---
+
+## 🛠 Skills & Tools
+
+**Languages:** Python • C++ • JavaScript  
+**Python Libraries:** Pandas • NumPy • Matplotlib • Seaborn  
+**Data Engineering:** Apache Kafka • Apache Spark • PySpark • Databricks  
+**Cloud & DevOps:** AWS (EC2, S3) • Docker  
+**Data Visualization:** Power BI • Excel  
+**Databases:** MySQL • MongoDB  
+**Developer Tools:** VS Code • GitHub  
+**CS Fundamentals:** OOPS • DBMS
+
+---
+
+## 🔧 Languages & Tools (visual row)
+Use the image below (or replace with individual icons) to display tools/tech visually:
+
+![tools-row](/mnt/data/fe53c876-3c59-48f8-a248-e444debb7fe7.png)
+
+---
+
+## 📫 Contact
+**Email:** piyushagrawal0804@gmail.com  
+**Phone:** +91 9078911176
+
+---
