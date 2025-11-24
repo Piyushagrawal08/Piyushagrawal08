@@ -33,7 +33,7 @@ I focus on building end-to-end analytics solutions and scalable pipelines that d
 ## 💼 Experience
 
 ### **Plasmid Innovation Pvt. Ltd.**  *Feb 2025 – Apr 2025* 
-— **- Data Analyst Intern**
+   (**Data Analyst Intern**)
 - Gained hands-on experience in core data analysis concepts  
 - Built an online retail recommendation system using **Excel, Pandas, NumPy**  
 - Analyzed customer behavior to deliver tailored recommendation insights  
@@ -41,7 +41,7 @@ I focus on building end-to-end analytics solutions and scalable pipelines that d
 ---
 
 ### **Unified Mentor**  *Mar 2025* 
- — **- Data Analyst Intern**
+   **Data Analyst Intern**
 - Developed a personalized health recommendation system  
 - Conducted stock market trend analysis for pattern detection  
 - Improved project functionality and user experience through collaboration  
