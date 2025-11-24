@@ -19,18 +19,13 @@ I am a B.Tech Information Technology undergraduate with hands-on experience in d
 ### **Veer Surendra Sai University of Technology, Burla**  
 **B.Tech (Information Technology)** • *2021–2025*  
 - **CGPA:** 8.56  
-
 ---
-
 ### **Sri Chaitanya Vidyaniketan, Vishakhapatnam** • *2019*  
-- **Intermediate:** 82.3%
-
+- **Intermediate:** -82.3%
 ---
-
 ### **Jawahar Navodaya Vidyalaya** • *2017*  
-- **Matriculation:** CGPA 9.4
-
-
+- **Matriculation:**
+- **CGPA:** 9.4
 ---
 
 ## 💼 Experience
@@ -49,28 +44,6 @@ I am a B.Tech Information Technology undergraduate with hands-on experience in d
 - Conducted stock market trend analysis for pattern detection  
 - Improved project functionality and user experience through collaboration  
 
-
----
-
-## 📂 Projects (as listed on resume)
-
-### Vendor Performance Analysis
-- Built an end-to-end analytics workflow using **SQL, Python, Power BI**.  
-- Performed EDA in Jupyter Notebook to extract insights on delivery, cost, and quality metrics.  
-- Created a Power BI dashboard to visualize vendor KPIs, trends, and segmentation.  
-- Provided data-driven recommendations to optimize procurement.
-
-### Real-Time Data Streaming Pipeline
-- Designed and implemented a real-time streaming pipeline using **Apache Kafka**.  
-- Orchestrated workflows with **Apache Airflow** (PostgreSQL backend).  
-- Processed streaming data using a **Spark master–worker cluster**.  
-- Stored processed data in **Cassandra** for high-availability, low-latency analytics.  
-- Monitoring via Kafka Control Center and Schema Registry.
-
-### SQL Data Warehouse
-- Built end-to-end data warehouse using **SQL Server** with ETL pipelines.  
-- Designed fact and dimension tables for analytical modeling.  
-- Implemented SQL-based dashboards and reporting for business insights.
 
 ---
 
@@ -105,6 +78,26 @@ I am a B.Tech Information Technology undergraduate with hands-on experience in d
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+---
+## 📂 Projects (as listed on resume)
+
+### Vendor Performance Analysis
+- Built an end-to-end analytics workflow using **SQL, Python, Power BI**.  
+- Performed EDA in Jupyter Notebook to extract insights on delivery, cost, and quality metrics.  
+- Created a Power BI dashboard to visualize vendor KPIs, trends, and segmentation.  
+- Provided data-driven recommendations to optimize procurement.
+
+### Real-Time Data Streaming Pipeline
+- Designed and implemented a real-time streaming pipeline using **Apache Kafka**.  
+- Orchestrated workflows with **Apache Airflow** (PostgreSQL backend).  
+- Processed streaming data using a **Spark master–worker cluster**.  
+- Stored processed data in **Cassandra** for high-availability, low-latency analytics.  
+- Monitoring via Kafka Control Center and Schema Registry.
+
+### SQL Data Warehouse
+- Built end-to-end data warehouse using **SQL Server** with ETL pipelines.  
+- Designed fact and dimension tables for analytical modeling.  
+- Implemented SQL-based dashboards and reporting for business insights.
 
 ---
 
