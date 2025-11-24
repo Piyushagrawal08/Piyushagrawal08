@@ -2,7 +2,7 @@
 
 📍 India • 📧 piyushagrawal0804@gmail.com • 📱 +91 9078911176  
 🔗 LinkedIn: https://www.linkedin.com/in/piyush-agrawal-946715302/  
-🔗 GitHub: (add your GitHub URL)
+🔗 GitHub: https://github.com/Piyushagrawal08
 
 ---
 
